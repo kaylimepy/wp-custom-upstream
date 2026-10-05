@@ -323,3 +323,4 @@ do_action( 'all_admin_notices' );
 if ( 'options-general.php' === $parent_file ) {
 	require ABSPATH . 'wp-admin/options-head.php';
 }
+// BUGS-11771 merge-conflict test: upstream

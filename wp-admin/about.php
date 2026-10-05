@@ -403,3 +403,4 @@ __( 'This is the final release of WordPress %s' );
 
 /* translators: The localized WordPress download URL. */
 __( 'https://wordpress.org/download/' );
+// BUGS-11771 merge-conflict test: upstream

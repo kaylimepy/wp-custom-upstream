@@ -6264,3 +6264,4 @@ function maybe_hash_hex_color( $color ) {
 
 	return $color;
 }
+// BUGS-11771 merge-conflict test: upstream

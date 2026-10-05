@@ -1038,3 +1038,4 @@ function wp_get_plugin_action_button( $name, $data, $compatible_php, $compatible
 
 	return $button;
 }
+// BUGS-11771 merge-conflict test: upstream

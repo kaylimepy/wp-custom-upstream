@@ -298,3 +298,4 @@ function register_block_core_navigation_submenu() {
 	);
 }
 add_action( 'init', 'register_block_core_navigation_submenu' );
+// BUGS-11771 merge-conflict test: upstream

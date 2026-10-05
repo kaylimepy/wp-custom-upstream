@@ -800,3 +800,4 @@ function _wp_translate_php_url_constant_to_key( $constant ) {
 		return false;
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

@@ -369,3 +369,4 @@ function register_block_core_page_list() {
 	);
 }
 add_action( 'init', 'register_block_core_page_list' );
+// BUGS-11771 merge-conflict test: upstream

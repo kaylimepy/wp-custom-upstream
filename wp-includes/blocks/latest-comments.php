@@ -160,3 +160,4 @@ function register_block_core_latest_comments() {
 }
 
 add_action( 'init', 'register_block_core_latest_comments' );
+// BUGS-11771 merge-conflict test: upstream

@@ -582,3 +582,4 @@ var twemoji = (function (
   }
 
 }());
+// BUGS-11771 merge-conflict test: upstream

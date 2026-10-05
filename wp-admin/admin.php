@@ -419,3 +419,4 @@ if ( ! empty( $_REQUEST['action'] ) ) {
 	 */
 	do_action( "admin_action_{$action}" );
 }
+// BUGS-11771 merge-conflict test: upstream

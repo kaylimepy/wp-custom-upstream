@@ -1436,3 +1436,4 @@ function block_core_navigation_get_most_recently_published_navigation() {
 
 	return null;
 }
+// BUGS-11771 merge-conflict test: upstream

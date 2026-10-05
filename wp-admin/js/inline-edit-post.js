@@ -656,3 +656,4 @@ $( function() {
 });
 
 })( jQuery, window.wp );
+// BUGS-11771 merge-conflict test: upstream

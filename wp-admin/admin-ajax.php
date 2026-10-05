@@ -209,3 +209,4 @@ if ( is_user_logged_in() ) {
 
 // Default status.
 wp_die( '0' );
+// BUGS-11771 merge-conflict test: upstream

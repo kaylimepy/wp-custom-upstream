@@ -1261,3 +1261,4 @@ function wp_filter_pre_oembed_result( $result, $url, $args ) {
 
 	return $result;
 }
+// BUGS-11771 merge-conflict test: upstream

@@ -107,3 +107,4 @@ require_once ABSPATH . 'wp-admin/admin-header.php';
 </div>
 <?php
 require_once ABSPATH . 'wp-admin/admin-footer.php';
+// BUGS-11771 merge-conflict test: upstream

@@ -1977,3 +1977,4 @@ class WP_REST_Server {
 		return $headers;
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

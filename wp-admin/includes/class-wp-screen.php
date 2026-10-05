@@ -1357,3 +1357,4 @@ final class WP_Screen {
 		echo "<$tag class='screen-reader-text'>" . $this->_screen_reader_content[ $key ] . "</$tag>";
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

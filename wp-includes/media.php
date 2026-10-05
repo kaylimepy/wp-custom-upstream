@@ -6351,3 +6351,4 @@ function wp_get_image_editor_output_format( $filename, $mime_type ) {
 	 */
 	return apply_filters( 'image_editor_output_format', $output_format, $filename, $mime_type );
 }
+// BUGS-11771 merge-conflict test: upstream

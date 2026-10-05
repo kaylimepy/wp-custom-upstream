@@ -1649,3 +1649,4 @@ switch ( $action ) {
 		login_footer();
 		break;
 } // End action switch.
+// BUGS-11771 merge-conflict test: upstream

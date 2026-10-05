@@ -2780,3 +2780,4 @@ function _wp_kses_allow_pdf_objects( $url ) {
 
 	return false;
 }
+// BUGS-11771 merge-conflict test: upstream

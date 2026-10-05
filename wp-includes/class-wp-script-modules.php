@@ -504,3 +504,4 @@ class WP_Script_Modules {
 			. '</div>';
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

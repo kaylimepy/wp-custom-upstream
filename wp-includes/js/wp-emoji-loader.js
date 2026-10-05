@@ -457,3 +457,4 @@
 			}
 		} );
 } )( window, document, window._wpemojiSettings );
+// BUGS-11771 merge-conflict test: upstream

@@ -5986,3 +5986,4 @@ function useObservableValue(map, name) {
 (window.wp = window.wp || {}).compose = __webpack_exports__;
 /******/ })()
 ;
+// BUGS-11771 merge-conflict test: upstream

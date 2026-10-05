@@ -1051,3 +1051,4 @@ do_action( 'after_signup_form' );
 
 <?php
 get_footer( 'wp-signup' );
+// BUGS-11771 merge-conflict test: upstream

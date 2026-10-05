@@ -1129,3 +1129,4 @@ class WP_Comments_List_Table extends WP_List_Table {
 		do_action( 'manage_comments_custom_column', $column_name, $comment->comment_ID );
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

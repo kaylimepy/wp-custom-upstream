@@ -76918,3 +76918,4 @@ lock(privateApis, {
 (window.wp = window.wp || {}).blockEditor = __webpack_exports__;
 /******/ })()
 ;
+// BUGS-11771 merge-conflict test: upstream

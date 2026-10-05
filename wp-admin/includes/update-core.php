@@ -1854,3 +1854,4 @@ function _upgrade_core_deactivate_incompatible_plugins() {
 		deactivate_plugins( array( 'gutenberg/gutenberg.php' ), true );
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

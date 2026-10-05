@@ -2130,3 +2130,4 @@ class WP_Posts_List_Table extends WP_List_Table {
 		<?php
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

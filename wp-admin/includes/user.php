@@ -754,3 +754,4 @@ function wp_is_authorize_application_redirect_url_valid( $url ) {
 
 	return true;
 }
+// BUGS-11771 merge-conflict test: upstream

@@ -444,3 +444,4 @@ add_action( 'init', 'register_block_core_navigation_link' );
  * Do not use variation_callback, to also account for unregistering post types/taxonomies later on.
  */
 add_action( 'get_block_type_variations', 'block_core_navigation_link_filter_variations', 10, 2 );
+// BUGS-11771 merge-conflict test: upstream

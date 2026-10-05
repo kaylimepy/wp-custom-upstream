@@ -163,3 +163,4 @@ if ( $_REQUEST['short'] ) {
 	 */
 	echo apply_filters( "async_upload_{$type}", $id );
 }
+// BUGS-11771 merge-conflict test: upstream

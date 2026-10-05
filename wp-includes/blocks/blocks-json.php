@@ -7278,3 +7278,4 @@
     'style' => 'wp-block-widget-group'
   )
 );
+// BUGS-11771 merge-conflict test: upstream

@@ -1132,3 +1132,4 @@ class WP_Image_Editor_Imagick extends WP_Image_Editor {
 		return true;
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

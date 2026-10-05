@@ -1059,3 +1059,4 @@ function wp_redirect_admin_locations() {
 		exit;
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

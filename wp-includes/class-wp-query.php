@@ -5116,3 +5116,4 @@ class WP_Query {
 		return $check;
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

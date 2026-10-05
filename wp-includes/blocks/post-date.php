@@ -91,3 +91,4 @@ function register_block_core_post_date() {
 	);
 }
 add_action( 'init', 'register_block_core_post_date' );
+// BUGS-11771 merge-conflict test: upstream

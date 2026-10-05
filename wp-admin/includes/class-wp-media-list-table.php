@@ -900,3 +900,4 @@ class WP_Media_List_Table extends WP_List_Table {
 		return $this->row_actions( $actions );
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

@@ -34551,3 +34551,4 @@ function api_unregisterEntityField(kind, name, fieldId) {
 (window.wp = window.wp || {}).editor = __webpack_exports__;
 /******/ })()
 ;
+// BUGS-11771 merge-conflict test: upstream

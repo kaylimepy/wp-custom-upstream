@@ -385,3 +385,4 @@ switch ( $action ) {
 } // End switch.
 
 require_once ABSPATH . 'wp-admin/admin-footer.php';
+// BUGS-11771 merge-conflict test: upstream

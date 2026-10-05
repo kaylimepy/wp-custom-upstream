@@ -117,3 +117,4 @@ if ( function_exists( 'get_site_option' )
 <script type="text/javascript">if(typeof wpOnload==='function')wpOnload();</script>
 </body>
 </html>
+// BUGS-11771 merge-conflict test: upstream

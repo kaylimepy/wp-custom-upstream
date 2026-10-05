@@ -82,3 +82,4 @@ if ( ! is_user_logged_in() ) {
 		do_action( "admin_post_{$action}" );
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

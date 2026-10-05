@@ -66837,3 +66837,4 @@ const __experimentalRegisterExperimentalCoreBlocks =  false ? 0 : undefined;
 (window.wp = window.wp || {}).blockLibrary = __webpack_exports__;
 /******/ })()
 ;
+// BUGS-11771 merge-conflict test: upstream

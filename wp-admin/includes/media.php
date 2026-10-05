@@ -3888,3 +3888,4 @@ function wp_media_attach_action( $parent_id, $action = 'attach' ) {
 		exit;
 	}
 }
+// BUGS-11771 merge-conflict test: upstream

@@ -321,3 +321,4 @@ function register_block_core_image() {
 	);
 }
 add_action( 'init', 'register_block_core_image' );
+// BUGS-11771 merge-conflict test: upstream

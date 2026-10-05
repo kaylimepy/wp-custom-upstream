@@ -614,3 +614,4 @@ wp_print_request_filesystem_credentials_modal();
 wp_print_admin_notice_templates();
 
 require_once ABSPATH . 'wp-admin/admin-footer.php';
+// BUGS-11771 merge-conflict test: upstream
